@@ -16,7 +16,6 @@ Ce projet est un site d'agence immobilière développé avec Bootstrap. Il inclu
 
 ## Tutoriel d'Installation
 
-1. **Clonez le dépôt** :
    ```bash
    git clone https://github.com/votre-utilisateur/votre-depot.git
 
