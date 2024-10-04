@@ -17,7 +17,7 @@ Ce projet est un site d'agence immobilière développé avec Bootstrap. Il inclu
 ## Tutoriel d'Installation
 
    ```bash
-   git clone https://github.com/votre-utilisateur/votre-depot.git
+   git clone (https://github.com/Gashrod1/-SN2-Responsive-PEAU-Matt.git)
 
    cd votre-depot
 
