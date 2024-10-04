@@ -1,0 +1,24 @@
+#calendar {
+  .fc-toolbar {
+      background-color: #f8f9fa;
+      padding: 10px;
+      .fc-button {
+          background-color: #000;
+          color: #fff;
+          &:hover {
+              background-color: #333;
+          }
+      }
+  }
+
+  .fc-daygrid-event {
+      background-color: #007bff;
+      border-color: #007bff;
+  }
+
+  .fc-daygrid-day {
+      &:hover {
+          background-color: #f0f0f0;
+      }
+  }
+}
